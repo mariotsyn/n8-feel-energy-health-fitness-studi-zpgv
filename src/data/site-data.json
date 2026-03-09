@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Feel Energy (Health & Fitness Studio)/Impulse By Oscar Garcia",
+    "tagline": "Tu energía, tu impulso, tu mejor versión.",
+    "description": "En Feel Energy (Impulse By Oscar Garcia), transformamos tu bienestar con entrenamientos personalizados y clases dinámicas. Nuestro estudio es el lugar donde alcanzas tus metas de salud y fitness en Dénia, con el apoyo experto de Oscar Garcia. Experimenta un enfoque integral para energizar tu cuerpo y mente, en un ambiente motivador.",
+    "phone": "+34 652 69 13 55",
+    "address": "Pg. del Saladar, 33, 03700 Dénia, Alicante, España",
+    "email": "hola@feelenergydenia.es",
+    "rating": 5,
+    "reviewCount": 62,
+    "hours": ["Monday: 8:00 AM – 9:00 PM","Tuesday: 7:00 AM – 9:00 PM","Wednesday: 8:00 AM – 9:00 PM","Thursday: 7:00 AM – 9:00 PM","Friday: 9:00 AM – 9:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#2D545E",
+    "secondary": "#1C2B34",
+    "accent": "#F5B925",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Despierta tu Potencial. Transforma tu Cuerpo y Mente.",
+    "subheadline": "Tu santuario en Dénia para una salud óptima y bienestar duradero, con programas de fitness diseñados exclusivamente para ti.",
+    "cta1": { "text": "¡Empezar Mi Transformación!", "href": "#contact" },
+    "cta2": { "text": "Explora Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ2QQMfQAbnhIRN4P8NEW92XI/photos/ATCDNfWNKK0LnexOzcN7fN8mmRxFsH5kaZwF7pAcY-W0o4656155dbya4Vn4rMxwTx-0uxY2CoQ6ineHZm8czoUkxYw0rI5s11OaBmk6_opaiBhsZIChTrphIXV6AEdXcvSAxFMMu7FL1_08awBATSi4p9SKuGuE5jZAriIf7pL_r-DWHAHsKUXK25XLX8EVsOYW7B_DWqxztaiDzm9rMpPF2FikQcldxpzuAtOTHUWX7xIUn182ELiNg89d-hADl220gHwdub61g_E_wvcyYpR0H9IeIx8ztlGSZKEG3M91x-UgonGtkPA-FOWjhTCEhqIlwSE7SNRIh3NCJTntt8HXe-bVLM2_LLho-XQfK21H_GvkFxNPYyeFLbFMI_VXbkyO5om_oBY7tNEBYhRT_xfQEPEuIu5idncG_zEOTvTPhRrG6A/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🏋️‍♀️", "title": "Entrenamiento Personalizado", "description": "Alcanza tus metas con programas diseñados solo para ti, supervisados por Oscar Garcia. Maximiza tus resultados y previene lesiones con una guía experta y motivadora." },
+    { "icon": "🧘‍♀️", "title": "Clases Colectivas Dinámicas", "description": "Disfruta de la energía grupal en nuestras variadas clases, desde alta intensidad hasta equilibrio y flexibilidad. Encuentra tu ritmo y diviértete mientras te pones en forma." },
+    { "icon": "🍏", "title": "Asesoramiento Nutricional Integral", "description": "Optimiza tu rendimiento y bienestar con planes de alimentación personalizados que complementan tu entrenamiento. Aprende a nutrir tu cuerpo de manera inteligente y sostenible." },
+    { "icon": "✨", "title": "Bienestar y Recuperación Activa", "description": "Mejora tu salud general con enfoque en la movilidad, la recuperación y el equilibrio cuerpo-mente. Descubre cómo potenciar tu vitalidad más allá del ejercicio físico." }
+  ],
+  "about": {
+    "title": "Nuestra Filosofía: Energía y Transformación Personal",
+    "text": "En Feel Energy (Impulse By Oscar Garcia), creemos que el bienestar es un viaje personal y holístico. Bajo la dirección experta de Oscar Garcia, nuestro estudio en Dénia se ha convertido en un referente para aquellos que buscan no solo entrenar, sino transformar su estilo de vida. Nos dedicamos a ofrecer un enfoque integral, donde cada plan está meticulosamente diseñado para resonar con tus necesidades y aspiraciones únicas.\n\nNuestra misión va más allá de un simple gimnasio; somos una comunidad que impulsa el crecimiento, la salud y la vitalidad. Con la pasión y el conocimiento de Oscar, te proporcionamos las herramientas, el apoyo y la inspiración para desbloquear tu máximo potencial, celebrar cada pequeño logro y sentirte verdaderamente energizado desde dentro. Únete a nosotros y descubre el poder de una vida activa y plena.",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ2QQMfQAbnhIRN4P8NEW92XI/photos/ATCDNfWNKK0LnexOzcN7fN8mmRxFsH5kaZwF7pAcY-W0o4656155dbya4Vn4rMxwTx-0uxY2CoQ6ineHZm8czoUkxYw0rI5s11OaBmk6_opaiBhsZIChTrphIXV6AEdXcvSAxFMMu7FL1_08awBATSi4p9SKuGuE5jZAriIf7pL_r-DWHAHsKUXK25XLX8EVsOYW7B_DWqxztaiDzm9rMpPF2FikQcldxpzuAtOTHUWX7xIUn182ELiNg89d-hADl220gHwdub61g_E_wvcyYpR0H9IeIx8ztlGSZKEG3M91x-UgonGtkPA-FOWjhTCEhqIlwSE7SNRIh3NCJTntt8HXe-bVLM2_LLho-XQfK21H_GvkFxNPYyeFLbFMI_VXbkyO5om_oBY7tNEBYhRT_xfQEPEuIu5idncG_zEOTvTPhRrG6A/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Instalaciones modernas de Feel Energy" },
+    { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80", "alt": "Entrenamiento funcional en estudio" },
+    { "url": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80", "alt": "Pesas y equipamiento de alta calidad" },
+    { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80", "alt": "Espacio de estiramiento y relajación" }
+  ],
+  "testimonials": [
+    { "name": "María López", "stars": 5, "text": "Desde que empecé en Feel Energy, mi energía y mi estado de ánimo han mejorado muchísimo. Oscar es un profesional increíble y muy motivador." },
+    { "name": "Javier Ruiz", "stars": 5, "text": "Un concepto diferente al gimnasio tradicional. La atención personalizada y el ambiente hacen que cada sesión sea un verdadero placer. ¡Resultados garantizados!" },
+    { "name": "Ana García", "stars": 4, "text": "Me encanta la variedad de clases y la calidad del equipamiento. Echo de menos abrir los sábados, pero la experiencia durante la semana es excelente." }
+  ],
+  "contact": {
+    "title": "¿Listo para Sentir la Energía y el Impulso?",
+    "subtitle": "Contacta con nosotros hoy mismo y comienza tu camino hacia una vida más saludable y plena. Te esperamos en Dénia.",
+    "whatsappNumber": "+34 652 69 13 55",
+    "showMap": true,
+    "mapQuery": "Feel Energy (Health & Fitness Studio)/Impulse By Oscar Garcia Pg. del Saladar, 33, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Feel Energy (Health & Fitness Studio)/Impulse By Oscar Garcia"
+  }
+}
